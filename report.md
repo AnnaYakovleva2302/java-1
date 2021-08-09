@@ -12,7 +12,13 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
+Артефакты тестирования:
+* IntelliJ IDEA версия 2021.2 Community edition
+* [FREEFORMATTER.COM сайт генерации валидации карт](https://www.freeforххххmatter.com/credit-card-number-generator-validator.html)
+* Код программы
+
+
+В процессе тестирования использовались следующие шаги:
 * Открыть исходный код программы Credit Card Number Validator
 * Ввести валидные и не валидные значения в переменную number строка 4
 * Запустить функцию main в классе Main
@@ -29,10 +35,6 @@
 * 453947688901014Q-ожидаемый результат FAIL, фактический результат FAIL
 * 45394768-ожидаемый результат FAIL, фактический результат FAIL
 
-Артефакты тестирования:
-* IntelliJ IDEA версия 2021.2 Community edition 
-* [FREEFORMATTER.COM сайт генерации валидации карт](https://www.freeforххххmatter.com/credit-card-number-generator-validator.html)
-* Код программы
 
 Тестирование производилось в следующем окружении:
 * Windows 10 разрядность 64
