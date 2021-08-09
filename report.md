@@ -7,7 +7,7 @@
 На тестирование затрачено: 1:00 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/AnnaYakovleva2302/java-1/issues/1
+* [Валидатор возвращает FAIL на валидные значения Visa](https://github.com/AnnaYakovleva2302/java-1/issues/1)
 
 
 ## Описание процесса тестирования
@@ -29,8 +29,11 @@
 * 453947688901014Q-ожидаемый результат FAIL, фактический результат FAIL
 * 45394768-ожидаемый результат FAIL, фактический результат FAIL
 
+Артефакты тестирования:
+* IntelliJ IDEA версия 2021.2 Community edition 
+* [FREEFORMATTER.COM сайт генерации валидации карт](https://www.freeforххххmatter.com/credit-card-number-generator-validator.html)
+* Код программы
 
 Тестирование производилось в следующем окружении:
-* <версия и разрядность ОС>
-* <версия Java>
-* <другое ПО, при необходимости>
+* Windows 10 разрядность 64
+* OpenJDK Runtime Environment Temurin-11.0.12+7 (build 11.0.12+7)
